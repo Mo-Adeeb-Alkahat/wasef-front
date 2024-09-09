@@ -11,6 +11,8 @@ based on the Flickr8k Arabic dataset
 
 - start the [backend-server](https://github.com/Mo-Adeeb-Alkahat/wasef-back)
 
+- then :
+
 ```
 npm install
 ```
